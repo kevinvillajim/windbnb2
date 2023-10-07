@@ -83,3 +83,4 @@ A continuación te diremos cuales son los puntos que se tomarán en cuenta para 
 - El proyecto puede ser desarrollado con Bootstrap 5 u otra libreria CSS de tu preferencia (component UI, tailwind CSS, etc). Para los estilos **que no se puedan** lograr con alguna de estas librerias, puedes usar CSS puro.
 - La barra de Navegación funciona con modal y se asemeja 100% al diseño esperado.
 # windbnb
+# windbnb

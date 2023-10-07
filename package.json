@@ -1,5 +1,6 @@
 {
   "name": "windbnb",
+  "homepage": "https://github.com/kevinvillajim/windbnb",
   "private": true,
   "version": "0.0.0",
   "type": "module",

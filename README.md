@@ -1,4 +1,4 @@
-https://kevinvillajim.github.io/windbnb2/
+[Proyecto](https://kevinvillajim.github.io/windbnb2/)
 
 # Instrucciones
 
